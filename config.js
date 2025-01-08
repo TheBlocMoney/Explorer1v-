@@ -1,10 +1,10 @@
-var api = 'https://karbo.club/services/node_web';
-var apiList = ["https://node.karbo.org:32448", "https://node2.karbo.org:32448"];
+var api = 'https://fastpool.xyz/bloc-exp-api';
+var apiList = ["http://uk.theblocmoney.com:2086", "https://node2.karbo.org:32448"];
 
-var blockTargetInterval = 240;
-var coinUnits = 1000000000000;
-var symbol = 'KRB';
-var refreshDelay = 30000;
+var blockTargetInterval = 120;
+var coinUnits = 10000;
+var symbol = 'BLOC';
+var refreshDelay = 20000;
 var blocksPerPage = 20;
 var whiteTheme = "css/light.css";
 var nightTheme = "css/dark.css";
