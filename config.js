@@ -1,5 +1,5 @@
 var api = 'https://fastpool.xyz/bloc-exp-api';
-var apiList = ["http://uk.theblocmoney.com:2086", "https://node2.karbo.org:32448"];
+var apiList = ["http://uk.theblocmoney.com:2086", "https://fastpool.xyz/bloc-exp-api"];
 
 var blockTargetInterval = 120;
 var coinUnits = 10000;
