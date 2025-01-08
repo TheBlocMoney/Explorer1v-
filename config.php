@@ -1,8 +1,8 @@
 <?php
-$node = 'https://karbo.club/services/node_web';
+$node = 'https://fastpool.xyz/bloc-exp-api';
 return array(
 	'api' => $node,
-	'blockTargetInterval' => 240,
+	'blockTargetInterval' => 120,
 	'coinUnits' => 1000000000000,
 	'coinDecimals' => 12
 );
