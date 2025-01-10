@@ -1,4 +1,4 @@
-var api = 'https://fastpool.xyz/bloc-exp-api';
+var api = 'http://uk.theblocmoney.com:2086';
 var apiList = ["http://uk.theblocmoney.com:2086", "https://fastpool.xyz/bloc-exp-api"];
 
 var blockTargetInterval = 120;
