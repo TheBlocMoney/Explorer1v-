@@ -1,5 +1,5 @@
 <?php
-$node = 'https://fastpool.xyz/bloc-exp-api';
+$node = 'http://uk.theblocmoney.com:2086';
 return array(
 	'api' => $node,
 	'blockTargetInterval' => 120,
